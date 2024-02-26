@@ -1,0 +1,49 @@
+.bg-secondary {
+    background-color: #800080 !important;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #800080;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #6d026d;
+}
+
+.button_form {
+    width: 100%;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #800080;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.button_form:hover {
+    background-color: #6d026d;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: brightness(30%);
+}
+
+.card-header {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c8a70d92332465.5e490718ed693.gif");
+    color: white;
+    /* Aplicar sombra de texto */
+    text-shadow: 0 0 5px #6d026d, 0 0 5px #6d026d, 0 0 5px #6d026d,
+        0 0 5px #6d026d;
+}
